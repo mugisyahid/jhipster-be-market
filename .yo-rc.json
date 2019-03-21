@@ -163,6 +163,8 @@
       "id",
       "en"
     ],
-    "skipClient": true
+    "skipClient": true,
+    "herokuAppName": "jhipster-be-market",
+    "herokuDeployType": "git"
   }
 }
